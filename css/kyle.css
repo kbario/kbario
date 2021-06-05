@@ -14,24 +14,30 @@ p {
     padding: 0px;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {}
+
 
 /* header css */
 
 header {
-    background-color: #fce2cb;
+    background-color: #FAB578;
     margin: 0px;
     padding: 20px;
 }
 
 header h1 {
-    color: rgb(3, 102, 141);
+    color: #173E69;
 }
 
 
 /* nav bar ccs */
 
 nav {
-    background-color: #fce2cb;
+    background-color: #FAB578;
     margin: 0px;
     padding: 20px;
 }
@@ -51,18 +57,18 @@ nav li {
 }
 
 nav li a {
-    display: block;
+    display: inline;
     text-align: center;
     padding: 10px 10px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color: rgb(3, 102, 141);
+    background-color: #173E69;
     color: white;
 }
 
 nav li a.active {
     background-color: white;
-    color: black;
+    color: #173E69;
 }
