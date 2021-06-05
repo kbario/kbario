@@ -10,8 +10,8 @@ h1 {
 p {
     font-family: 'Comfortaa', cursive;
     font-size: 25px;
-    margin: 0px;
-    padding-top: 10px;
+    margin: 10px;
+    padding-top: 0px;
 }
 
 a {
@@ -52,13 +52,13 @@ nav ul {
 }
 
 nav li {
-    float: center;
+    float: left;
     display: inline;
 }
 
 nav li a {
     display: inline;
-    text-align: center;
+    text-align: left;
     padding: 10px 10px;
     text-decoration: none;
     color: #173E69;
