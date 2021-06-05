@@ -1,14 +1,28 @@
+/* header css */
+
 header {
-    background-color: #ffce47;
+    background-color: #ffecb9;
 }
 
 header h1 {
-    font-size: 20px;
+    font-size: 50px;
     font-family: 'Comfortaa', cursive;
-    color: rgb(3, 147, 204);
+    color: rgb(3, 102, 141);
 }
 
-p {
+header p {
     font-family: 'Comfortaa', cursive;
-    font-size: 10px;
+    font-size: 25px;
+}
+
+
+/* nav bar ccs */
+
+nav {
+    background-color: #ffecb9;
+}
+
+nav p {
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
 }
