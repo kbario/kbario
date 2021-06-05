@@ -1,0 +1,13 @@
+header {
+    background-color: darkorange;
+}
+
+header h1 {
+    font-size: 20px;
+    font-family: 'Comfortaa', cursive;
+}
+
+p {
+    font-family: 'Comfortaa', cursive;
+    font-size: 10px;
+}
