@@ -2,6 +2,8 @@
 
 header {
     background-color: #ffecb9;
+    margin: -10px;
+    padding: 20px;
 }
 
 header h1 {
@@ -20,6 +22,8 @@ header p {
 
 nav {
     background-color: #ffecb9;
+    margin: -10px;
+    padding: 20px;
 }
 
 nav p {
