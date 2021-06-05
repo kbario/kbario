@@ -1,10 +1,11 @@
 header {
-    background-color: darkorange;
+    background-color: #ffce47;
 }
 
 header h1 {
     font-size: 20px;
     font-family: 'Comfortaa', cursive;
+    color: rgb(3, 147, 204);
 }
 
 p {
