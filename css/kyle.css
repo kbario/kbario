@@ -1,14 +1,16 @@
 /* page wide css */
 
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
 h1 {
-    font-family: 'Comfortaa', cursive;
     font-size: 50px;
     margin: 0px;
     padding: 0px;
 }
 
 p {
-    font-family: 'Comfortaa', cursive;
     font-size: 25px;
     margin: 10px;
     padding-top: 0px;
@@ -38,14 +40,12 @@ header h1 {
 
 nav {
     background-color: #FAB578;
-    margin: 0px;
     padding: 20px;
 }
 
 nav ul {
     position: -webkit-sticky;
     position: sticky;
-    top: 0;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -73,3 +73,8 @@ nav li a.active {
     background-color: white;
     color: #173E69;
 }
+
+
+/* Book review */
+
+.subtitle
