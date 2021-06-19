@@ -1,0 +1,45 @@
+body,
+html {
+    height: 100%;
+}
+
+.bkimg {
+    /* background image */
+    background-image: url("../images/tas_mountain.jpeg");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 25px;
+}
+
+.tleft {
+    position: absolute;
+    top: 0;
+    left: 16px;
+}
+
+.bleft {
+    position: absolute;
+    bottom: 0;
+    left: 16px;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.mid {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+hr {
+    margin: auto;
+    width: 60%;
+}
